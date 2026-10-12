@@ -11,7 +11,7 @@ The objective is to identify sales trends, understand customer behaviour, evalua
 ## 2. Dataset
 
 - **Dataset:** customer_shopping_analysis.csv
-- **Source:** [[Insert dataset source or link]](https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/customer_behavior_sql_queries.sql)
+- **Source:** [Insert dataset source or link]((https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/customer_shopping_behavior.csv))
 - **Format:** CSV 
 - **Key attributes:** Customer ID, age group, product category, sales, quantity, order date, and other relevant business metrics.
 
@@ -28,6 +28,9 @@ The objective is to identify sales trends, understand customer behaviour, evalua
 - **Git & GitHub:** Version control and project documentation.
 
 ## 4. Project Workflow
+
+<img width="1611" height="880" alt="customer_behavior_analysis_workflow" src="https://github.com/user-attachments/assets/18f9e009-d01a-43e3-b4c3-f31d9eb5733f" />
+
 
 ### Step 1: Data Loading
 - Imported the dataset using Python.
@@ -76,7 +79,8 @@ The Power BI dashboard provides an interactive view of business performance.
 - Interactive slicers and filters.
 
 **Dashboard Preview:**  
-[Insert dashboard screenshot here]
+<img width="581" height="334" alt="image" src="https://github.com/user-attachments/assets/dae285e8-6470-41f5-89b6-a3e5e68a08e3" />
+
 
 **Power BI Dashboard Link:** [Insert public dashboard link, if available]
 
