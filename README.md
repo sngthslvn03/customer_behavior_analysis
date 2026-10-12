@@ -11,7 +11,7 @@ The objective is to identify sales trends, understand customer behaviour, evalua
 ## 2. Dataset
 
 - **Dataset:** customer_shopping_analysis.csv
-- **Source:** [Insert dataset source or link]((https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/customer_shopping_behavior.csv))
+- **Source:** [Insert dataset source or link](https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/customer_shopping_behavior.csv)
 - **Format:** CSV 
 - **Key attributes:** Customer ID, age group, product category, sales, quantity, order date, and other relevant business metrics.
 
